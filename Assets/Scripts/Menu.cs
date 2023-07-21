@@ -15,7 +15,8 @@ public class Menu : UIManager
     private void Start()
     {
         string filename = "tools.json";
-        ToolResult tools = Utilities.ImportJson<ToolResult>(filename);
+        Debug.Log(toolsData.text);
+        ToolResult tools = Utilities.ImportJson<ToolResult>(toolsData);
         // Debug.Log(tools.Count);
         foreach (Tool t in tools.Data)
         {

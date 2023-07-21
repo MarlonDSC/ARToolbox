@@ -14,7 +14,7 @@ public class UIManager : MonoBehaviour
     public GameObject ARParent;
     public GameObject ARCamera;
     public GameObject ImageTarget;
-    public List<GameObject> Models;
+    public TextAsset toolsData;
     private void Awake()
     {
         PrefabBox = Resources.Load<GameObject>("Prefabs/Box");
@@ -25,6 +25,8 @@ public class UIManager : MonoBehaviour
         ARParent = GameObject.Find("AR");
         ARCamera = GameObject.Find("ARCamera");
         ImageTarget = GameObject.Find("ImageTarget");
+        toolsData = Resources.Load<TextAsset>("Data/tools");
+        // Debug.Log(Resources.)
     }
 
     private void Start() {

@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Martillo",
+            "description": "El martillo es una herramienta de percusión utilizada para golpear directamente o indirectamente una pieza, causando su desplazamiento. El uso más común de esta herramienta suele ser para clavar (incrustar un clavo de acero en madera u otro material), calzar partes (por la acción de la fuerza, y se utiliza la química para elaborar este aplicada en el golpe que la pieza recibe) o romper una pieza. Los martillos son a menudo diseñados para un propósito especial, por lo que sus diseños son muy variados. Un tipo de martillo, el martillo de carpintero, tiene una cuña abierta en la parte trasera para arrancar clavos. ",
+            "image": "" 
+        },
+        {
+            "id": 2,
+            "name": "Mandarria",
+            "description": "La mandarria, almádena, almádana, machota, maza, marra, marrón, almágana, marro, mazo, maceta, comba, mona, mallo, combo, marreta o porra, es una herramienta similar a un martillo que consiste en una gran cabeza metálica introducida en el extremo de un palo de madera que se usa como mango. El mango largo combinado con una cabeza pesada permite que la mandarria coja impulso durante el balanceo y aplique una gran fuerza en comparación con los martillos diseñados para clavar clavos. Parecido al mazo, comparte la capacidad de distribuir la fuerza en un área amplia. Esto contrasta con otros tipos de martillos, que concentran la fuerza en un área relativamente pequeña. Suele usarse para romper piedras. El término mandarria es de origen naval, y se utiliza específicamente para denominar a un tipo de maza empleada para meter o sacar los pernos en los costados de los buques",
+            "image": "" 
+        },
+        {
+            "id": 3,
+            "name": "Llave inglesa",
+            "description": "La llave inglesa, también denominada llave francesa, llave ajustable o llave de expansión, es una herramienta manual utilizada para aflojar o ajustar tuercas y tornillos. La abertura de la llave inglesa es ajustable (posee una cabeza móvil) lo que le permite adaptarse a diferentes medidas de pernos o tuercas, esta característica la diferencia de las llaves comunes las cuales poseen un tamaño fijo.",
+            "image": "" 
+        },
+        {
+            "id": 4,
+            "name": "Llave mixta",
+            "description": "La llave mixta es una herramienta manual diseñada en acero. Su característica principal es que combina una boca fija en forma de U y la otra en forma de estrella.",
+            "image": "" 
+        },
+        {
+            "id": 5,
+            "name": "Destornillador",
+            "description": "Un destornillador (atornillador o destornillador) es una herramienta que se utiliza para apretar y aflojar tornillos y otros elementos de máquinas que requieren poca fuerza de apriete y que generalmente son de diámetro pequeño.",
+            "image": "" 
+        },
+        {
+            "id": 6,
+            "name": "Serrucho",
+            "description": "Un serrucho es una herramienta manual utilizada para practicar cortes, sobre todo en madera. Además es un tipo de sierra de hoja dentada y trapezoidal que por el extremo más ancho va unida a un solo mango de madera o de plástico. La forma más característica del mango es la de una \"anilla\" grande o tirador amoldado a la forma de la mano. Aunque existen diferentes tipos, el más común es el llamado 'de carpintero', en el que la hoja se va estrechando desde el mango hacia el final de la herramienta. Básicamente se divide en mango y arma (la parte metálica con que se realiza el corte).",
+            "image": "" 
+        },
+        {
+            "id": 7,
+            "name": "Lima",
+            "description": "La lima es una herramienta manual utilizada para el desgaste y afinado de piezas de distintos materiales como el metal, el plástico o la madera. Está formada por una barra de acero al carbono templado (llamada caña de corte) que posee unas ranuras llamadas dientes y que en la parte posterior está equipada con una empuñadura o mango.",
+            "image": "" 
+        },
+        {
+            "id": 8,
+            "name": "Taladro",
+            "description": "Se denomina taladradora o taladro a la máquina o herramienta con la que se mecanizan la mayoría de los agujeros que se hacen a las piezas en los talleres mecánicos. Destacan estas máquinas por la sencillez de su manejo. Tienen dos movimientos: El de rotación de la broca que le imprime el motor eléctrico de la máquina a través de una transmisión por poleas y engranajes, y el de avance de penetración de la broca, que puede realizarse de forma manual sensitiva o de forma automática, si incorpora transmisión para hacerlo.",
+            "image": "" 
+        },
+        {
+            "id": 9,
+            "name": "Pinza",
+            "description": "Una pinza o pinzas es una herramienta de dos mangos en la que los puntos activos (mandíbulas de agarre, bordes cortantes, etc.) actúan en direcciones opuestas sobre la pieza de trabajo; sujetándola, cortándole o prensándola. Sin embargo, a diferencia de las tijeras, estas no se deslizan entre sí. Puede funcionar con el mecanismo de palancas simples, accionado manualmente o, en modelos profesionales o industriales, con mecanismos hidráulicos, neumáticos o eléctricos.",
+            "image": "" 
+        },
+        {
+            "id": 10,
+            "name": "Cinta métrica",
+            "description": "Una cinta métrica, un flexómetro o simplemente metro es un instrumento de medida que consiste en una cinta flexible graduada y que se puede enrollar, haciendo que el trabajo sea más fácil. También con ella se pueden medir líneas y superficies curvas. ",
+            "image": "" 
+        }
+    ],
+    "status": 200
+}
